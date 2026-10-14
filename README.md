@@ -42,5 +42,6 @@ Luego visita `http://localhost:3000`.
 
 - 3 vidas con invencibilidad temporal al reaparecer (parpadeo)
 - Asteroides se parten en fragmentos más pequeños al ser destruidos
+- Estrella fugaz rápida que aparece cada 15 segundos y desaparece tras unos segundos
 - Partículas de explosión al destruir asteroides
 - Power-up `Velocidad`: duplica la aceleración de la nave durante 5 segundos
